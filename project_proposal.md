@@ -7,6 +7,8 @@ blakamp@regis.edu
 
 (719) 248-2456
 
+https://github.com/0xFFMobius/PracticumWaterboxes
+
 # Standardization of Waterbox Utilization
 
 ## Project Description
@@ -20,15 +22,12 @@ Supervised regression models using time series averaged flow utilization and wat
 The available dataset is approximately 18 months of historical data, about 136,000 records. This currently stored on a private (company) MS SQL server. There are two databases, and three tables which will need to be joined to build the final data set. Initial downloads will be done using SQL queries from within a Python script. 
 
 ## Data Description
- Each record describes the condition experienced by one coil (piece of product). The values are the mean and standard deviation of the representative parameter. For exogenous factors there are 41 continuous, 42 binary, and 2 categorical factors. There are three endogenous factors, final temperature mean, standard deviation, and rate of change. 
+Each record describes the condition experienced by one coil (piece of product). The values are the mean and standard deviation of the representative parameter. For exogenous factors there are 41 continuous, 42 binary, and 2 categorical factors. There are three endogenous factors, final temperature mean, standard deviation, and rate of change. 
 
 The amount of factors available may result in too complex of model, so some additional filtering may be needed. Typically only two waterboxes are used at the same time, so analysis may focus on the most common combinations. 
 
 ## Analysis Approach
 After cleaning, and factor selection, I anticipate comparing multiple supervised learning models, which may include linear regression, support vector machine, and decision trees. I will evaluate each for their ability to predict the test dataset. 
-
-
-How will you analyze the data? What machine learning methods do you plan to use, and/or what business intelligence aspect do you plan on incorporating?
 
 ## Possible Project Complications
 Although there are over 80 values which can be used to build a prediction model, the data may have so much variability that a well behaved model may not be possible. From a processing standpoint, there may be an influence of additional factors which influence the physical phenomena, but aren't included as part of the model (water temperatures, product speeds). These values may be available in another database.

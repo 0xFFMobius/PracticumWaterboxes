@@ -1,2 +1,7 @@
 /git
 .env*
+/.vscode
+/__pycache__
+/progress_reports/week_template.md
+predictivetensiles.py
+idealdiameter.py
