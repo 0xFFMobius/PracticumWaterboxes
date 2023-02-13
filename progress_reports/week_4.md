@@ -4,7 +4,7 @@ NAME: Bryce Lakamp
 
 GITHUB REPOSITORY LINK: https://github.com/0xFFMobius/PracticumWaterboxes
 
-WEEK: 3
+WEEK: 4
 
 ## Project Summary
 Through a review of 18 months of historical data, it is desired to explore, understand and develop a model which can be used to optimize usage parameters for operational control of cooling waterboxes. Operators currently have full control of waterbox selection, flow rates and water distribution. They are only required to achieve the desired output temperatures at the end of the process within a tolerance. Best practices to achieve these temperatures have not been defined. An optimized model would ideally improve process stability, and lead to best practices. Small perturbations of the input parameters, would result in minimum disruption of the output parameters. 
