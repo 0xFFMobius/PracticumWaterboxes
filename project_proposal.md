@@ -12,7 +12,7 @@ https://github.com/0xFFMobius/PracticumWaterboxes
 # Standardization of Waterbox Utilization
 
 ## Project Description
-Operators have full control of waterbox selection, flow rates and water distribution. They are only required to achieve the desired output temperatures at the end of the process. Best practices to achieve these temperatures have not been defined. 
+Operators have full control of waterbox selection, flow rates and water distribution. They are only required to achieve the desired output temperatures at the end of the process. The best practices to achieve these temperatures have not been defined. 
 
 Through a review of 18 months of historical data, it is desired to explore, understand and develop a model which can be used to optimize usage parameters for operators. An optimized model would ideally improve process stability. Small perturbations of the input parameters, would result in minimum disruption of the output parameters. 
 

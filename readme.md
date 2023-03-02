@@ -8,7 +8,7 @@ I currently work at a steel mill which produces steel wire rod. The product is s
 </details>
 <details>
 <summary> What is a Waterbox?</summary>
-A waterbox is component used to cool wire rod during manufacture. After hot steel rod is rolled to final size, it is cooled to a target temperature to assist in meeting final mechanical properties. The rod flows through a waterbox at high speed, and is subjected to a continuous flow of water at pressure. 
+A waterbox is component used to cool wire rod during manufacture. After hot steel rod is rolled to final size, it is cooled to a target temperature to assist in meeting final mechanical properties. The rod flows through a waterbox at high speed, and is subjected to a continuous flow of water at pressure. ![Generic Waterbox](WB4.jpg)
 </details>
 <details>
 <summary>How are Waterboxes used?</summary>
