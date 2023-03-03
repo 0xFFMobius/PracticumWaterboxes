@@ -26,6 +26,6 @@ Millisecond data for continuous variables have been aggregated using industrial 
 This data has been sanitized of confidential information.
 
 # Project Results
-The project was successful, and the full analysis is in [Full analysis](data_extraction.ipynb). I was able to extract and clean data from multiple data sources. While reviewing the data, factors were selected and records filtered to provide a set of data which could produce meaningful insights. Representative models were created using linear regression and support vector regression. A "best" model was picked and reviewed for optimum future parameter selection. Overall, the goals of the project were met.
+The project was successful, and the full analysis is in [data_extraction.ipynb](data_extraction.ipynb). I was able to extract and clean data from multiple data sources. While reviewing the data, factors were selected and records filtered to provide a set of data which could produce meaningful insights. Representative models were created using linear regression and support vector regression. A "best" model was picked and reviewed for optimum future parameter selection. Overall, the goals of the project were met.
 
 In the future this work could be extended by incorporating more physical parameters, and shifting focus to mechanical properties instead of the selected process temperature. The use of a better flow and pressure, possibly with some randomization of speed and incoming temperature may better illustrate a more natural response to temperatures. 
