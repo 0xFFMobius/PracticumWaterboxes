@@ -25,6 +25,18 @@ Millisecond data for continuous variables have been aggregated using industrial 
 
 This data has been sanitized of confidential information.
 
+# Project Proposal
+The proposal for the project scope and applicability to coursework can be found at [Project Proposal](project_proposal.md).
+
+# Project Updates
+This project was completed over 8 weeks in the spring of 2023. Progress reports can be found here:
+* [Week 2 project update](project_reports/week_2.md)
+* [Week 3 project update](project_reports/week_3.md)
+* [Week 4 project update](project_reports/week_4.md)
+* [Week 5 project update](project_reports/week_5.md)
+* [Week 6 project update](project_reports/week_6.md)
+* [Week 7 project update](project_reports/week_7.md)
+
 # Project Results
 The project was successful, and the full analysis is in [data_extraction.ipynb](data_extraction.ipynb). I was able to extract and clean data from multiple data sources. While reviewing the data, factors were selected and records filtered to provide a set of data which could produce meaningful insights. Representative models were created using linear regression and support vector regression. A "best" model was picked and reviewed for optimum future parameter selection. Overall, the goals of the project were met.
 
